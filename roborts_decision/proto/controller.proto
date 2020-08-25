@@ -1,0 +1,14 @@
+syntax = "proto2";
+package roborts_decision;
+
+message PID_Controller {
+    optional float chassis_p = 1;
+    optional float chassis_i = 2;
+    optional float chassis_d = 3;
+    optional bool  chassis_has_threshold = 4 [default = false];
+    optional float chassis_threshold = 5;
+}
+
+message ControllerConfig {
+    optional PID_Controller pid_controller = 1;
+}

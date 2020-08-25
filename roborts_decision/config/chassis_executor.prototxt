@@ -1,0 +1,7 @@
+pid_controller {
+  chassis_p: 1.0
+  chassis_i: 0.0
+  chassis_d: 0.0
+  chassis_has_threshold: false
+  chassis_threshold: 0.0
+}

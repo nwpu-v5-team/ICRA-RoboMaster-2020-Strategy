@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <!-- Launch the training system -->
+    <param name="is_match" type="bool" value="False"/>
+    <param name="load_model_data" type="bool" value="True"/>
+    <param name="my_color" type="string" value="red_decision_node"/>
+    <node pkg="roborts_decision" name="dqn_decision_node_red" type="dqn_decision_node.py" output="screen"/>
+</launch>
