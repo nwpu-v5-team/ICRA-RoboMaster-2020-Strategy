@@ -1,2 +1,7 @@
 # ICRA-RoboMaster-2020-Strategy
- ICRA2020 AI Challenge 西北工业大学 翱翔战队 决策代码
+
+This repository is the material for 2020 DJI ICRA AI Challenge.
+
+**Please see the [wiki] to get a detailed documentation.**
+
+[wiki]: https://github.com/nwpu-v5-team/ICRA-RoboMaster-2020-Strategy/wiki
