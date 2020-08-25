@@ -1,0 +1,4 @@
+var structroborts__decision_1_1_static_descriptor_initializer__controller__2eproto =
+[
+    [ "StaticDescriptorInitializer_controller_2eproto", "structroborts__decision_1_1_static_descriptor_initializer__controller__2eproto.html#a57e02914777f9375de30abcae5e73bc7", null ]
+];
